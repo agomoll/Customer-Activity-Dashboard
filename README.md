@@ -1,6 +1,9 @@
 # Customer-Activity-Dashboard
 Using Splunk data and Power BI to visualize software platform customer use trends
 
+This quick insight dashboard was created to display customer usage trends month over month and year over year. It includes a dropdown option to look at all customers in aggregate or to filter by a single customer. This dashboard was created to present insights to senior executives as well as provide a tool for account managers to easily monitor the adoption patterns among their customers. This ability has allowed account managers to identify those customer evangalists who may need more support building platform adoption in their oganizations. 
+
+
 
 Figure 1. Platform Logins and Unique Logins 2022 vs 2021 for a Customer
 
