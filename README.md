@@ -23,7 +23,7 @@ Custmer Login Trends Example 2
 
 
 
-Customer Loggin time Example 2
+Customer Login time Example 2
 
 <img src="Resources/ex_2_user_time.png" width=75%>
 
