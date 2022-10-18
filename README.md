@@ -12,9 +12,13 @@ Figure 1. Platform Logins and Unique Logins 2022 vs 2021 for a Customer
 
 
 
+The next visualization (Figure 2) shows the time users spent in the platform aggregated into units of days. We use this metric to investigate time spent in the platform to compliment the number of logins to monitor engagement through another lens. For example, users may log in many times but for short periods while others may log in less frequently but for longer periods. In both cases engagement is present but for potentially different use cases. Figure two displays the month over month and year over year data as the customer in Figure 1. It appears that while number of logins decreased month over month from 2021 to 2022 the amount of user time was pretty similar. This may have occured if expansion efforts in 2021 led to lots of logins but adoption efforts in 2022 were focused on getting users to spend more time in the platform. These insights helped account managers talk to customers about the nuances of their strategies allowing our team to better help expand or retain the accounts. 
+
+
 Figure 2. Time Users Spent Logged into Platform Month over month 2021 vs 2022
 
 <img src="Resources/user_time.png" width=50%>
+
 
 
 
