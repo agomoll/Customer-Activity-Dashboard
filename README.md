@@ -6,8 +6,17 @@ Using Splunk data and Power BI to visualize software platform customer use trend
 The team needed some visualizations to analyze customer usage trends. The goal was to visualize patterns over time in order to predict and prevent churn with struggling customers while also promoting expansion for thriving customers. This effort would require collaboration among data engineering, buisiness intelligence, and leadership stakeholders. 
 
 
+### Procedure
+First, collaboration with data engineering ws required. The relevant data has been housed in a Splunk Database. The database would need to be queried to collect and transform the desired information in tabular format. Initially the data was exported into csv files for upload in to Power BI. Eventually Splunk was integrated with a local instance of Power BI desktop. 
 
-## Insight Examples
+#### Splunk Query and Table Result Example
+
+<img src="Resources/splunk_query_user_data.png">
+
+
+Second, the dashboard was built out do display the usage trends. Examples of usage metrics include platform logins, monthly unique users, time spent on the platform, etc.  
+
+### Insight Examples
 ### Example 1
 In the first example, Figure 1 displays a customer's usage trends in the form of total logins as well as unique logins. From the chart it apears that usage was higher in 2021 than 2022 but more variable. 2021 Peak usage occured in February and March but then declined into the summer with another more subtle peak immerging in the fall months. 
 
