@@ -2,8 +2,9 @@
 Using Splunk data and Power BI to visualize software platform customer use trends
 
 
-## Overview
-This quick insight dashboard was created to display customer usage trends month over month and year over year. It includes a dropdown option to look at all customers in aggregate or to filter by a single customer. This dashboard was created to present insights to senior executives as well as provide a tool for account managers to easily monitor the adoption patterns among their customers. This ability has allowed account managers to identify those customer evangalists who may need more support building platform adoption in their oganizations. The data spans the full year of 2021 and the months through August of 2022
+## Overview and Problem
+The team needed some visualizations to analyze customer usage trends. The goal was to visualize patterns over time in order to predict and prevent churn with struggling customers while also promoting expansion for thriving customers. This effort would require collaboration among data engineering, buisiness intelligence, and leadership stakeholders. 
+
 
 
 ## Insight Examples
@@ -41,3 +42,7 @@ Figure 4. Customer Login time Example 2
 
 <img src="Resources/ex_2_user_time.png" width=75%>
 
+
+
+## Summary
+This quick insight dashboard was created to display customer usage trends month over month and year over year. It includes a dropdown option to look at all customers in aggregate or to filter by a single customer. This dashboard was created to present insights to senior executives as well as provide a tool for account managers to easily monitor the adoption patterns among their customers. This ability has allowed account managers to identify those customer evangalists who may need more support building platform adoption in their oganizations.
