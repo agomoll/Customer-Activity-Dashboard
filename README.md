@@ -23,7 +23,7 @@ In the first example, Figure 1 displays a customer's usage trends in the form of
 
 Figure 1. Platform Logins and Unique Logins 2022 vs 2021 for a Customer
 
-<img src="Resources/logins-2.png" width=50%>
+<img src="Resources/logins-2.png" width=85%>
 
 
 
@@ -32,7 +32,7 @@ The next visualization (Figure 2) shows the time users spent in the platform agg
 
 Figure 2. Time Users Spent Logged into Platform Month over month 2021 vs 2022
 
-<img src="Resources/user_time.png" width=50%>
+<img src="Resources/user_time.png" width=75%>
 
 
 
